@@ -1,1 +1,1 @@
-olleh will be in the working directory
+ script that sets the mode of the file hello the same as olleh’s mode.
